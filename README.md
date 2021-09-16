@@ -25,4 +25,4 @@ In this repo, you will find :
 
 The website was once hosted and online but isn't anymore 🤡
 
-![GitHub repo size](https://img.shields.io/github/repo-size/amontaut/levelo-Marseille-2020)
+![GitHub repo size](https://img.shields.io/github/repo-size/amontaut/levelo-Marseille-2020?style=for-the-badge)
